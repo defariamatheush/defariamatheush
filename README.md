@@ -1,38 +1,35 @@
-<h2 align="left">Hi 👋! My name is Matheus Henrique de Faria and I'm a Growing Full Stack developer, from Joinvile - SC (Brasil)</h2>
+<h1>👋 Olá! Eu sou Matheus Henrique</h1>
+<p><strong>Desenvolvedor Full-stack</strong> com foco em criar soluções modernas, performáticas e escaláveis.</p>
 
-###
+<h2>🚀 Sobre mim</h2>
+<p>
+Tenho 3 anos de experiência em desenvolvimento de software, atuando no <strong>back-end e front-end</strong> com tecnologias como 
+<strong>Node.js, Vue.js, React, Laravel, PostgreSQL</strong> e <strong>TypeScript</strong>.  
+Sou apaixonado por arquitetura de sistemas, otimização de performance e boas práticas de desenvolvimento.  
+Trabalho com metodologias ágeis (Scrum/Jira) e tenho experiência sólida em integração de sistemas, criação de APIs e construção de interfaces dinâmicas.
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="30" alt="vitejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-original.svg](https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/axios/axios-plain.svg)" height="30" alt="axios logo"  />
-</div>
+<h2>💼 Experiência Recentes</h2>
+<ul>
+  <li><strong>NCAM</strong> — Desenvolvimento de APIs Node.js, dashboards em Vue.js/React, otimização de banco PostgreSQL, integrações industriais, WebSockets e segurança (JWT/OAuth2).</li>
+  <li><strong>Consulth Soluções Empresariais</strong> — Desenvolvimento Full-stack com Laravel e Vue.js, criação de APIs REST, UI/UX com Vuetify/Tailwind e modelagem de dados.</li>
+  <li><strong>Schulze Recuperação de Crédito</strong> — Desenvolvimento de aplicações desktop em C#, automação de processos e operações com SQL e Dapper.</li>
+</ul>
 
-###
+<h2>🛠️ Habilidades</h2>
+<ul>
+  <li><strong>Back-end:</strong> Node.js, Laravel, SQL, PostgreSQL, REST APIs, Autenticação (JWT/OAuth2)</li>
+  <li><strong>Front-end:</strong> Vue.js, React, Tailwind, Vuetify</li>
+  <li><strong>Outros:</strong> WebSockets, Git/Github, Arquitetura de Sistemas, Otimização de Consultas</li>
+</ul>
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
+<h2>🎓 Formação</h2>
+<p><strong>Engenharia de Software</strong> — Em andamento (UniCesumar)</p>
 
-###
+<h2>📫 Contato</h2>
+<p>
+<strong>E-mail:</strong> defaria.matheush@gmail.com<br>
+<strong>Localização:</strong> Joinville – SC, Brasil
+</p>
 
-<img align="right" height="150" src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/1944060/3c6e22e1856a08f4f1d7ee8dec21d7a28bb56eb2.gif"  />
-
-###
+<p>💡 Sempre aberto a colaborar em projetos interessantes e desafiadores!</p>
