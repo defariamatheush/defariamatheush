@@ -102,13 +102,6 @@ Perfil orientado a resultado: Clean Code, boas práticas de engenharia e entrega
 
 <br/>
 
-### GitHub
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=defariamatheush&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e8a33d&icon_color=5b9dd9&text_color=8b949e&hide_title=true" alt="Estatísticas do GitHub de Matheus" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=defariamatheush&layout=compact&hide_border=true&bg_color=0d1117&title_color=e8a33d&text_color=8b949e" alt="Linguagens mais usadas" height="150" />
-</p>
-
 ---
 
 <p align="center"><sub>Aberto a conversas sobre arquitetura, performance e sistemas em tempo real.</sub></p>
