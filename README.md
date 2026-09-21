@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.svg" alt="Matheus Henrique de Faria — Desenvolvedor Full-Stack | React, Next.js, Node.js, TypeScript" width="100%" />
+  <img src="header.svg" alt="Matheus Henrique de Faria — Desenvolvedor Full-Stack | React, Next.js, Node.js, TypeScript" width="100%" />
 </div>
 
 <p align="center">
